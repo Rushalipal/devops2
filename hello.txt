@@ -1,2 +1,2 @@
-hi my name is Rush
-status
+ name is Rush
+stat
